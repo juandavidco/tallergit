@@ -1,0 +1,2 @@
+en el dia de hoy los temas tratados son:
+es un controlador de versiones
